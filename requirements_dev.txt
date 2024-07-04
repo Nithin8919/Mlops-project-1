@@ -5,6 +5,9 @@ mlflow==2.2.2
 dvc
 scikit-learn
 plotly
+numpy
+ipykernel
+
 
 #dev requirements
 
