@@ -13,7 +13,7 @@ from pathlib import Path # to write the path without any issues like mac os and 
 class DataIngestionConfig:
     pass
 
-class DataOmgestion:
+class Dataingestion:
     def __init__(self):
         pass
     
