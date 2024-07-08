@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from src.logger.app_logging import logging
+from src.logger.logging import logging
 from src.exception.exception import customexception
 import os
 import sys
@@ -125,4 +125,6 @@ class DataTransformation:
             logging.info("Exception occured in the initiate_datatransformation")
 
             raise customexception(e,sys)
-            
+  
+
+          
