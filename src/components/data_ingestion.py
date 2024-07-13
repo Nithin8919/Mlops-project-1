@@ -1,9 +1,9 @@
+import sys
+import os
 import pandas as pd
 import numpy as np
-from src.logger.logging import logging
+from src.logger.app_logging import logging
 from src.exception.exception import customexception
-import os
-import sys
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 from pathlib import Path  # to write the path without any issues like macOS and Windows / \

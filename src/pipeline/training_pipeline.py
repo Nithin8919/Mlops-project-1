@@ -4,7 +4,7 @@ import sys
 # Add the root directory of your project to the PYTHONPATH
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
-from src.logger.logging import logging
+from src.logger.app_logging import logging
 from src.exception.exception import customexception
 import pandas as pd
 
