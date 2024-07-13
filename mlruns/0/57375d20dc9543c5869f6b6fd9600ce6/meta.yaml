@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nitin/Documents/Mlops_gems_pro/mlops1/mlruns/0/57375d20dc9543c5869f6b6fd9600ce6/artifacts
+end_time: 1720894530721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57375d20dc9543c5869f6b6fd9600ce6
+run_name: unequaled-koi-165
+run_uuid: 57375d20dc9543c5869f6b6fd9600ce6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720894529498
+status: 3
+tags: []
+user_id: nitin
