@@ -1,0 +1,8 @@
+version: '3'
+services:
+  application:
+    build: .  # Simple build context as a string
+    image: gemstone:latest  # Specify the image name and tag
+    container_name: gemstone-prediction
+    ports:
+      - "8080:8080"

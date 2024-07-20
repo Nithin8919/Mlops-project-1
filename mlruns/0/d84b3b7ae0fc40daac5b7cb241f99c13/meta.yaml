@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nitin/Documents/Mlops_gems_pro/mlops1/mlruns/0/d84b3b7ae0fc40daac5b7cb241f99c13/artifacts
+end_time: 1721496198831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d84b3b7ae0fc40daac5b7cb241f99c13
+run_name: painted-skunk-328
+run_uuid: d84b3b7ae0fc40daac5b7cb241f99c13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721496197649
+status: 3
+tags: []
+user_id: nitin

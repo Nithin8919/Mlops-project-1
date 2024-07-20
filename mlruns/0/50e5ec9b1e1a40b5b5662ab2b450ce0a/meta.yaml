@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nitin/Documents/Mlops_gems_pro/mlops1/mlruns/0/50e5ec9b1e1a40b5b5662ab2b450ce0a/artifacts
+end_time: 1721493341017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e5ec9b1e1a40b5b5662ab2b450ce0a
+run_name: redolent-owl-285
+run_uuid: 50e5ec9b1e1a40b5b5662ab2b450ce0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721493339800
+status: 3
+tags: []
+user_id: nitin

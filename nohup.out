@@ -1,0 +1,25 @@
+  ____________       _____________
+ ____    |__( )_________  __/__  /________      __
+____  /| |_  /__  ___/_  /_ __  /_  __ \_ | /| / /
+___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /
+ _/_/  |_/_/  /_/    /_/    /_/  \____/____/|__/
+[[34m2024-07-21T00:21:20.728+0530[0m] {[34mexecutor_loader.py:[0m114} INFO[0m - Loaded executor: SequentialExecutor[0m
+[[34m2024-07-21T00:21:20.767+0530[0m] {[34mscheduler_job_runner.py:[0m795} INFO[0m - Starting the scheduler[0m
+[[34m2024-07-21T00:21:20.767+0530[0m] {[34mscheduler_job_runner.py:[0m802} INFO[0m - Processing each file at most -1 times[0m
+[[34m2024-07-21T00:21:20.769+0530[0m] {[34mmanager.py:[0m165} INFO[0m - Launched DagFileProcessorManager with pid: 25732[0m
+[[34m2024-07-21T00:21:20.770+0530[0m] {[34mscheduler_job_runner.py:[0m1548} INFO[0m - Resetting orphaned tasks for active dag runs[0m
+[[34m2024-07-21T00:21:20.801+0530[0m] {[34mscheduler_job_runner.py:[0m1571} INFO[0m - Marked 1 SchedulerJob instances as failed[0m
+[2024-07-21 00:21:20 +0530] [25731] [INFO] Starting gunicorn 20.1.0
+[2024-07-21 00:21:20 +0530] [25731] [ERROR] Connection in use: ('::', 8793)
+[2024-07-21 00:21:20 +0530] [25731] [ERROR] Retrying in 1 second.
+[[34m2024-07-21T00:21:21.035+0530[0m] {[34msettings.py:[0m60} INFO[0m - Configured default timezone Timezone('UTC')[0m
+[2024-07-21T00:21:21.046+0530] {manager.py:411} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1.
+[2024-07-21 00:21:21 +0530] [25731] [ERROR] Connection in use: ('::', 8793)
+[2024-07-21 00:21:21 +0530] [25731] [ERROR] Retrying in 1 second.
+[2024-07-21 00:21:22 +0530] [25731] [ERROR] Connection in use: ('::', 8793)
+[2024-07-21 00:21:22 +0530] [25731] [ERROR] Retrying in 1 second.
+[2024-07-21 00:21:23 +0530] [25731] [ERROR] Connection in use: ('::', 8793)
+[2024-07-21 00:21:23 +0530] [25731] [ERROR] Retrying in 1 second.
+[2024-07-21 00:21:24 +0530] [25731] [ERROR] Connection in use: ('::', 8793)
+[2024-07-21 00:21:25 +0530] [25731] [ERROR] Retrying in 1 second.
+[2024-07-21 00:21:26 +0530] [25731] [ERROR] Can't connect to ('::', 8793)

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nitin/Documents/Mlops_gems_pro/mlops1/mlruns/0/53b707dcd5694dc2ad95e7e5f4c144f4/artifacts
+end_time: 1721496398355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53b707dcd5694dc2ad95e7e5f4c144f4
+run_name: upset-hound-685
+run_uuid: 53b707dcd5694dc2ad95e7e5f4c144f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721496397187
+status: 3
+tags: []
+user_id: nitin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nitin/Documents/Mlops_gems_pro/mlops1/mlruns/0/eef761f8dc76478083c964a569173c57/artifacts
+end_time: 1721495927643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eef761f8dc76478083c964a569173c57
+run_name: amusing-wren-84
+run_uuid: eef761f8dc76478083c964a569173c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721495926317
+status: 3
+tags: []
+user_id: nitin
